@@ -1,3 +1,4 @@
+# Existing entries
 _build/
 bin/
 local/
@@ -8,3 +9,43 @@ _themes/__pycache__/
 *.db
 .DS_Store
 .idea
+
+# Additional entries
+# Virtual environment
+venv/
+env/
+
+# Sphinx documentation
+docs/_build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Visual Studio Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Temporary files
+*.bak
+*.swp
+*.swo
+*~
+
+# Log files
+*.log
+
+# Cache directories
+__pycache__/
+.cache/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
